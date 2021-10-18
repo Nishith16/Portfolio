@@ -37,12 +37,17 @@ nav{
 }
 #heading{
     
-    color: rgb(74, 102, 190);
+    color: white;
 }
 .logo{
 font-size: 50px;
 text-align: center;
 justify-content: center;
+}
+#profile{
+    margin: 15px;
+    height: 80px;
+    width: 80px;
 }
 .page{
     min-height: 90vh;
